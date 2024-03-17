@@ -1,2 +1,2 @@
 # PCA-Based-Image-Compression
-On this project we use PCA for image compression in Python.
+In this project we use PCA for image compression in Python.
